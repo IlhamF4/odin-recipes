@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h1, .footer {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer a{
+  text-decoration-line: none;
+  color: white;
+}
